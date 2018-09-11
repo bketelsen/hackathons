@@ -9,5 +9,7 @@ Who:
 
 http://go.hackmit.org/sponsor-schedule
 
+aka.ms/a4s
+
 ## Contact info
 
