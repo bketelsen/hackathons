@@ -45,6 +45,11 @@ Where:
 ## Being a mentor
 [Mentor guide + map](hackmit_mentorguide.pdf)
 
+## Being a judge
+2 judging opportunities
+1. Azure judge
+2. HackMIT event judge for expo
+
 ## Info on our programs
 [Azure for Students](https://aka.ms/a4s)
 
