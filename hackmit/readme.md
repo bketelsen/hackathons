@@ -16,7 +16,7 @@ Who:
 [Most up-to-date schedule](http://go.hackmit.org/sponsor-schedule)
 
 ## Being a mentor
-[Mentor guide](./Mentor\ Guide\ 2018.pdf)
+[Mentor guide](hackmit_mentorguide.pdf)
 /Users/shana/src/git/hackathons/hackmit/Mentor Guide 2018.pdf
 
 ## Links
