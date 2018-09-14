@@ -42,6 +42,8 @@ Where:
 
 ### Booth schedule
 
+## Social media guidelines
+
 ## Being a mentor
 [Mentor guide + map](hackmit_mentorguide.pdf)
 
