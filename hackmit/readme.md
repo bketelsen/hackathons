@@ -11,13 +11,21 @@ Where:
 Who:
 
 ## Contact info
+### Shana - main POC: 
+- phone: 206-434-6193
+- mail: shanama@microsoft.com
+
+
 
 ## Schedule
 [Most up-to-date schedule](http://go.hackmit.org/sponsor-schedule)
 
+[dayof website](http://go.hackmit.org/dayof)
+
+### Booth schedule
+
 ## Being a mentor
-[Mentor guide](hackmit_mentorguide.pdf)
-/Users/shana/src/git/hackathons/hackmit/Mentor Guide 2018.pdf
+[Mentor guide + map](hackmit_mentorguide.pdf)
 
 ## Links
 https://aka.ms/a4s
