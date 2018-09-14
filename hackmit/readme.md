@@ -16,7 +16,7 @@ Key times
 
 Where:
 
-Who:
+*insert map*
 
 ## Contact info
 ### Shana - main POC: 
@@ -45,10 +45,10 @@ Who:
 ## Being a mentor
 [Mentor guide + map](hackmit_mentorguide.pdf)
 
-## Links
-https://aka.ms/a4s
+## Info on our programs
+[Azure for Students](https://aka.ms/a4s)
 
-https://imagine.microsoft.com/en-us/msp
+[Microsoft Student Partner program](https://imagine.microsoft.com/en-us/msp)
 
-https://imaginecup.microsoft.com/en-us/Events?id=0
+[Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)
 
