@@ -1,17 +1,23 @@
 # HackMIT guide
 
 ## Important deets
-When:
+When: 
+Key times
+- 8am - Meet at sponsor checkin @ white tent behind 
+- 8am-1pm - 
 
 Where:
 
 Who:
 
-http://go.hackmit.org/sponsor-schedule
-
-https://docs.google.com/spreadsheets/d/1bBbMcwMJXyF2SF5iqdocokRP9dVawknbF3-W9wHe2mc/edit#gid=944385763
-
 ## Contact info
+
+## Schedule
+[Most up-to-date schedule](http://go.hackmit.org/sponsor-schedule)
+
+## Being a mentor
+[Mentor guide](./Mentor\ Guide\ 2018.pdf)
+/Users/shana/src/git/hackathons/hackmit/Mentor Guide 2018.pdf
 
 ## Links
 https://aka.ms/a4s
