@@ -21,8 +21,11 @@ https://docs.microsoft.com/en-us/azure/app-service/app-service-web-overview
 ## Add a bot
 https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-3.0
 
-## Use Tensorflow (or Keras, or CNTK, or Theano, or ...) on a pre-configured, ready to code VM
+## Use Tensorflow (or Keras, or CNTK, or Theano, or ...) without installing anything
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview
+
+## Play with Python (and TensorFlow/Theano/Sci-kit learn/etc.) in a browser
+https://notebooks.azure.com/
 
 ## Use the most popular IDE* to get coding fast
 [Get Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
