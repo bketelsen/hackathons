@@ -3,8 +3,7 @@
 ## Important deets
 **Wear Microsoft branded gear please!** 
 
-When: 
-Key times
+Key times:
 
 **Saturday**
 - 8am - Meet at sponsor checkin @ white tents outside of [Kresge Auditorium](https://www.google.com/maps/place/Kresge+Auditorium/@42.3577976,-71.1011636,15z/data=!4m8!1m2!2m1!1skresge+auditorium!3m4!1s0x89e37a007a8bbfe5:0x1571262b039a43bd!8m2!3d42.3581353!4d-71.0950313)
@@ -13,7 +12,7 @@ Key times
 - 5pm - Our tech talk (Shana will be AWOL)
 
 **Sunday**
- 8am and on - Last minute hack help/Azure tech support
+ 8am and on - **Key hack time**. Last minute hack help/Azure tech support
 - 11am - Expo judging (Morgan and Chander)
 - 1pm - Azure prize judging (Morgan, Chander, Jasmine)
 - 3pm - Closing ceremonies/tear down/help Shana ship stuff back
@@ -41,11 +40,52 @@ Where:
 
 
 ## Schedule
-[Most up-to-date schedule](http://go.hackmit.org/sponsor-schedule)
+[Most up-to-date schedule](http://go.hackmit.org/sponsor-schedule) run by HackMIT staff
 
-[dayof website](http://go.hackmit.org/dayof)
+[dayof website](http://go.hackmit.org/dayof) run by HackMIT staff
 
 ### Booth schedule
+It's always a good idea to be around at the booth, but if you're listed as the "booth owner" please make sure you're there to keep things running and field questions!
+
+| Time               | Booth owner                                           | 
+| ------------------ | ----------------------------------------------------- |
+| **Saturday**       |                                                       |
+| 11am - 2pm         | **All please!!**                                      |
+| 2pm - 4pm          | Jasmine                                               |
+| 4pm - 6pm          | Cristina, Lance                                       |
+| 6pm - 8pm          | Morgan                                                |
+| 8pm - 10pm         | Cristina                                              |
+| 10pm on            | N/A (or just Shana)                                   |
+| **Sunday**         |                                                       |
+| 8am - 11am         | **All please!!**                                      |
+| 11am               | All hands on deck for judging                         |
+| 3pm and on         | Help Shana tear down booth & ship out booth materials |  
+
+## Booth talking points
+- Apply for a job at Microsoft (expect a LOT of interest in this)
+   - Apply for internship or fulltime jobs at careers.microsoft.com
+   - Online applications only, we do not accept paper resumes.
+   - Refer recruiting questions to University recruiting or Microsoft full time employees.
+- Free Azure through Azure for Students
+   - Activate here: [Azure for Students](https://aka.ms/a4s)
+   - No credit card required
+   - $100 Azure credits, must prove you are a student by signing up with your student email address
+   - If student email address is not recognized as a student, Shana has Student verification codes student can use as proof of student status
+   - If verification code does not work, Shana has Azure passes student can activate
+- Enter to win Azure API prize
+   - Use Azure in your hackathon and qualify for Azure API prize
+   - Prize is 4 Xbox One S 1TB
+   - Find tutorials to learn Azure at docs.microsoft.com or at our 5pm workshop
+   - Judging criteria:
+     | Criteria | Points |
+     | -------- | ------ |
+     | Does the project address a clear need, problem, or opportunity and is the solution clearly explained? | /10 |
+     | Does the project include innovations in technical design and/or implementation of services (e.g., Cognitive Services, Machine Learning) and/or User Experience? | /20 |
+     | Does the project have a clear target market or audience? | /5 |
+     | Is the project’s purpose and basic functionality easily understood? | /5 |
+     | Does the project have a professional degree of production in terms of performance, user interface, visuals, and audio? | /10 |
+     More info below.
+
 
 ## Social media guidelines
 [Read me and learn how to Tweet/Facebook!](../socialguidance.pdf)
