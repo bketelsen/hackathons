@@ -12,7 +12,7 @@ Key times:
 - 5pm - Our tech talk (Shana will be AWOL)
 
 **Sunday**
- 8am and on - **Key hack time**. Last minute hack help/Azure tech support
+- 8am and on - **Key hack time**. Last minute hack help/Azure tech support
 - 11am - Expo judging (Morgan and Chander)
 - 1pm - Azure prize judging (Morgan, Chander, Jasmine)
 - 3pm - Closing ceremonies/tear down/help Shana ship stuff back
