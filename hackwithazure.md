@@ -27,7 +27,7 @@ https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-mac
 ## Play with Python (and TensorFlow/Theano/Sci-kit learn/etc.) in a browser
 https://notebooks.azure.com/
 
-## Use the most popular IDE* to get coding fast
+## Use the most popular IDE~ to get coding fast
 [Get Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 
-* according to Stack Overflow's [dev survey 2018 😊](https://insights.stackoverflow.com/survey/2018/#technology-most-popular-development-environments)
+~according to Stack Overflow's [dev survey 2018 😊](https://insights.stackoverflow.com/survey/2018/#technology-most-popular-development-environments)
