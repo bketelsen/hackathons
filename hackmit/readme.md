@@ -13,7 +13,7 @@ Key times:
 
 **Sunday**
 - 8am and on - **Key hack time**. Last minute hack help/Azure tech support
-- 11am - Expo judging (Morgan and Chander)
+- 10:30am - Expo judging (Morgan and Chander)
 - 1pm - Azure prize judging (Morgan, Chander, Jasmine)
 - 3pm - Closing ceremonies/tear down/help Shana ship stuff back
 
@@ -60,7 +60,7 @@ It's always a good idea to be around at the booth, but if you're listed as the "
 | 10pm on            | N/A (or just Shana)                                   |
 | **Sunday**         |                                                       |
 | 8am - 11am         | **All please!!**                                      |
-| 11am               | All hands on deck for judging                         |
+| 10:30am            | All hands on deck for judging                         |
 | 3pm and on         | Help Shana tear down booth & ship out booth materials |  
 
 ## Booth talking points
@@ -106,15 +106,15 @@ This will be our live ticketing system during the event. Whenever hackers need h
 
 ## Being a judge
 2 judging opportunities
-1. HackMIT event judge for expo @ 11am Sunday
-1. Azure judge @ 1pm Sunday
+1. HackMIT event judge for expo @ 10:30am Sunday (Chander and Morgan)
+1. Azure judge @ 1pm Sunday (Jasmine, Chander, Morgan)
 
 [Judging criteria for Azure prize](../hackjudging.png)
 [Terms & Conditions for Azure prize](TCs.pdf)
 
+Please plan to be around at 1pm during Azure prize juding in case we need extra hands 😊
 
-
-## Info on Azure student programs
+## Links to Azure student developer programs
 [Azure for Students](https://aka.ms/a4s)
 
 [Microsoft Student Partner program](https://imagine.microsoft.com/en-us/msp)
