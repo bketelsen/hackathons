@@ -7,7 +7,12 @@ Share the love: [aka.ms/hackwithazure](https://aka.ms/hackwithazure)
 ## Azure API prize
 Use any Azure service (like, any of them...) and enter our API prize (Azure Champ Challenge). Winners will recieve an Xbox One X for each team member and your hack will be entered into our Imagine Cup competition (the grand prize last year was a mentoring session with CEO Satya and $85k).
 
-I recommend Cognitive Services in partiular 😃
+I recommend Cognitive Services in particular!
+
+## Demos from Azure workshop
+https://notebooks.azure.com/shana/libraries/demos
+
+(sorry, the speech to text one doesn't work on azure notebooks, but you can download the .ipynb and run it locally on Jupyter 😃)
 
 ## Add AI
 What cog services exist? https://azure.microsoft.com/en-us/services/cognitive-services/directory/ 
