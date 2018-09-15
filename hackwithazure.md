@@ -2,7 +2,7 @@
 Share the love: [aka.ms/hackwithazure](https://aka.ms/hackwithazure)
 
 ## How to get free Azure credits
-[aka.ms/azure4students](https://aka.ms/azure4students)
+[aka.ms/azure4students](https://aka.ms/azure4students) - use your @<yourschool>.edu email
 
 ## Azure API prize
 Use any Azure service (like, any of them...) and enter our API prize (Azure Champ Challenge). Winners will recieve an Xbox One X for each team member and your hack will be entered into our Imagine Cup competition (the grand prize last year was a mentoring session with CEO Satya and $85k).
@@ -23,6 +23,10 @@ https://docs.microsoft.com/en-us/azure/machine-learning/
 ## Make a web app
 https://docs.microsoft.com/en-us/azure/app-service/app-service-web-overview
 
+### For mobile apps
+https://azure.microsoft.com/en-us/documentation/learning-paths/appservice-mobileapps/
+https://docs.microsoft.com/en-us/azure/app-service-mobile/
+
 ## Add a bot
 https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-3.0
 
@@ -31,6 +35,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-mac
 
 ## Play with Python (and TensorFlow/Theano/Sci-kit learn/etc.) in a browser
 https://notebooks.azure.com/
+
+## Publish an API hosted in the cloud
+https://docs.microsoft.com/en-us/azure/api-management/
 
 ## Use the most popular IDE~ to get coding fast
 [Get Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
