@@ -2,7 +2,7 @@
 Share the love: [aka.ms/hackwithazure](https://aka.ms/hackwithazure)
 
 ## How to get free Azure credits
-[aka.ms/azureforstudents](https://aka.ms/azureforstudents)
+[aka.ms/azure4students](https://aka.ms/azure4students)
 
 ## Cognitive services
 What cog services exist? https://azure.microsoft.com/en-us/services/cognitive-services/directory/ 
