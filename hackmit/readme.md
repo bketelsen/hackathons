@@ -110,6 +110,7 @@ This will be our live ticketing system during the event. Whenever hackers need h
 1. Azure judge @ 1pm Sunday
 
 [Judging criteria for Azure prize](../hackjudging.png)
+[Terms & Conditions for Azure prize](TCs.pdf)
 
 
 
