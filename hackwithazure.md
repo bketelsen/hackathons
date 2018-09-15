@@ -39,6 +39,9 @@ https://notebooks.azure.com/
 ## Publish an API hosted in the cloud
 https://docs.microsoft.com/en-us/azure/api-management/
 
+## Azure functions for data streaming
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
+
 ## Use the most popular IDE~ to get coding fast
 [Get Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 
