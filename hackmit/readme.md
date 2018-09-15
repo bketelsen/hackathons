@@ -93,6 +93,10 @@ It's always a good idea to be around at the booth, but if you're listed as the "
 [Read me and learn how to Tweet/Facebook!](../socialguidance.pdf)
 
 ## Being a mentor
+**What resources do I point hackers to?**
+
+[aka.ms/hackwithazure](https://aka.ms/hackwithazure) is a good place to start (feel free to fork, pull request and contribute) but also, whatever **you** think is a good resource!
+
 **How do I talk to hackers?​** 
 
 Sometimes hackers may be a little shy about approaching company reps, so feel free to walk around the hacking area and introduce yourself, ask them what they’re working on, and offer your expertise! We’ll also be using a mentor queue to match mentors to hackers.
