@@ -11,6 +11,9 @@ I recommend Cognitive Services in particular!
 
 ## Demos from Azure workshop
 https://notebooks.azure.com/shana/libraries/demos
+- [Text analytics - alpacas on reddit](https://notebooks.azure.com/shana/libraries/demos/html/cogservices_textanalytics.ipynb)
+- [Speech to text/translation](https://notebooks.azure.com/shana/libraries/demos/html/cogservices_translate.ipynb)
+- [Vision - coral reefs & scuba divers](https://notebooks.azure.com/shana/libraries/demos/html/cogservices_vision.ipynb)
 
 (sorry, the speech to text one doesn't work on azure notebooks, but you can download the .ipynb and run it locally on Jupyter 😃)
 
