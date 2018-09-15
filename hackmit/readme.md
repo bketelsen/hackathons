@@ -44,6 +44,8 @@ Where:
 
 [dayof website](http://go.hackmit.org/dayof) run by HackMIT staff
 
+![](hackmit_prelimschedule.png)
+
 ### Booth schedule
 It's always a good idea to be around at the booth, but if you're listed as the "booth owner" please make sure you're there to keep things running and field questions!
 
@@ -123,5 +125,5 @@ What if someone asks me to sponsor their hackathon/event?
 
 Point them here: [aka.ms/event-sponsor-request](https://aka.ms/event-sponsor-request)
 
-[Briefing deck](hackmit_briefingdeck.pdf)
+[Briefing deck](hackmit_briefingdeck.pdf) for any other questions/background info.
 
