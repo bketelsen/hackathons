@@ -122,8 +122,9 @@ This will be our live ticketing system during the event. Whenever hackers need h
 
 ## Other FAQ
 What if someone asks me to sponsor their hackathon/event?
-
 Point them here: [aka.ms/event-sponsor-request](https://aka.ms/event-sponsor-request)
 
 [Briefing deck](hackmit_briefingdeck.pdf) for any other questions/background info.
+
+[Sponsor guidebook from HackMIT staff](hackmit_sponsorshipguide.pdf)
 
