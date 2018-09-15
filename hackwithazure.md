@@ -1,4 +1,4 @@
-# Hack with Azure
+# Hack with Azure - aka.ms/hackwithazure
 Share the love: [aka.ms/hackwithazure](https://aka.ms/hackwithazure)
 
 ## How to get free Azure credits
