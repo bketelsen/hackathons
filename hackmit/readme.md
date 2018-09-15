@@ -64,6 +64,7 @@ It's always a good idea to be around at the booth, but if you're listed as the "
 | 3pm and on         | Help Shana tear down booth & ship out booth materials |  
 
 ## Booth talking points
+- [aka.ms/hackwithazure](https://aka.ms/hackwithazure)
 - Apply for a job at Microsoft (expect a LOT of interest in this)
    - Apply for internship or fulltime jobs at careers.microsoft.com
    - Online applications only, we do not accept paper resumes.
