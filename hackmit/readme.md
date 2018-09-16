@@ -1,5 +1,12 @@
 # HackMIT guide
 
+## JUDGING:
+[JUDGING](../judging)
+
+[Link to judging form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRz_m6h1IaXlHh-JzkM0298RUQ1dMRERSUlRBWVk0WEVZMFRMODVOQzNMUS4u)
+
+Fill out one form per team.
+
 ## Important deets
 **Wear Microsoft branded gear please!** 
 
@@ -87,6 +94,7 @@ It's always a good idea to be around at the booth, but if you're listed as the "
      | Does the project have a clear target market or audience? | /5 |
      | Is the project’s purpose and basic functionality easily understood? | /5 |
      | Does the project have a professional degree of production in terms of performance, user interface, visuals, and audio? | /10 |
+     
      More info below.
 
 
