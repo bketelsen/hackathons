@@ -1,6 +1,8 @@
 # Hack with Azure - aka.ms/hackwithazure
 Share the love: [aka.ms/hackwithazure](https://aka.ms/hackwithazure)
 
+## What is Azure?
+
 ## How to get free Azure credits
 [aka.ms/azure4students](https://aka.ms/azure4students) - use your @<yourschool>.edu email
 
