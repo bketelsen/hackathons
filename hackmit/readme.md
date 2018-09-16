@@ -5,6 +5,14 @@
 
 [Link to judging form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRz_m6h1IaXlHh-JzkM0298RUQ1dMRERSUlRBWVk0WEVZMFRMODVOQzNMUS4u)
 
+| Criteria | Points |
+| -------- | ------ |
+| Does the project address a clear need, problem, or opportunity and is the solution clearly explained? | /10 |
+| Does the project include innovations in technical design and/or implementation of services (e.g., Cognitive Services, Machine Learning) and/or User Experience? | /20 |
+| Does the project have a clear target market or audience? | /5 |
+| Is the project’s purpose and basic functionality easily understood? | /5 |
+| Does the project have a professional degree of production in terms of performance, user interface, visuals, and audio? | /10 |
+
 Fill out one form per team.
 
 ## Important deets
@@ -86,15 +94,7 @@ It's always a good idea to be around at the booth, but if you're listed as the "
    - Use Azure in your hackathon and qualify for Azure API prize
    - Prize is 4 Xbox One S 1TB
    - Find tutorials to learn Azure at docs.microsoft.com or at our 5pm workshop
-   - Judging criteria:
-   
-| Criteria | Points |
-| -------- | ------ |
-| Does the project address a clear need, problem, or opportunity and is the solution clearly explained? | /10 |
-| Does the project include innovations in technical design and/or implementation of services (e.g., Cognitive Services, Machine Learning) and/or User Experience? | /20 |
-| Does the project have a clear target market or audience? | /5 |
-| Is the project’s purpose and basic functionality easily understood? | /5 |
-| Does the project have a professional degree of production in terms of performance, user interface, visuals, and audio? | /10 |
+
      
 More info below.
 
