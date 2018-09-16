@@ -5,6 +5,8 @@ Share the love: [aka.ms/hackwithazure](https://aka.ms/hackwithazure)
 
 ## How to get free Azure credits
 [aka.ms/azure4students](https://aka.ms/azure4students) - use your @<yourschool>.edu email
+  
+Not working? Come to the Microsoft booth and we'll get it fixed.
 
 ## Azure API prize
 Use any Azure service (like, any of them...) and enter our API prize (Azure Champ Challenge). Winners will recieve an Xbox One X for each team member and your hack will be entered into our Imagine Cup competition (the grand prize last year was a mentoring session with CEO Satya and $85k).
