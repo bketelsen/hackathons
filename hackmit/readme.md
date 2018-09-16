@@ -15,6 +15,8 @@
 
 Fill out one form per team.
 
+[Google spreadsheet of teams](https://docs.google.com/spreadsheets/d/138iWdgGUtMPxQIihxRYjMnvc4r-RhEL8H95K6WA9FSg/edit#gid=395869937)
+
 ## Important deets
 **Wear Microsoft branded gear please!** 
 
