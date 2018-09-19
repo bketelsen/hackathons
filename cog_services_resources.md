@@ -6,4 +6,7 @@
 - https://www.ailab.microsoft.com/
 - https://aischool.microsoft.com/en-us/learning-paths
 - https://gallery.azure.ai/
-
+- https://github.com/Azure-Samples/cognitive-services-vision-face-finder
+- https://github.com/Azure-Samples/cognitive-services-dotnet-call-center
+- https://github.com/Azure-Samples/cognitive-services-studybot-csharp
+ 
