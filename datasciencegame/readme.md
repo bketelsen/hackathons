@@ -24,19 +24,6 @@ Astrid Stange, AXA Group Chief Operating Officer, Roland Scharrer, AXA Group Chi
 - 16.45 Cocktail and networking
 - 18.00 End of Opening Ceremony
 
-Thurs. 27th
-- 08.00 – 12.30 Stand set-up and speech & presentation practice
-- 12.00 – 13.30 Students arrive
-- 13.30 Welcome Coffee
-- 14.00 Welcome speech by Astrid Stange, AXA Group COO
-- 14.30 Sponsor opening speeches (BNPP - back on online challenge / Capgemini / Microsoft 15-20 min each)
-- 15.30 AXA HR speech 
-- 15.40 Juice / Coffee break
-- 16.00 Panel discussion – moderated (by external journalist? TBC) – panelists include  AXA + 1 Microsoft + 1 Capgemini 
-- 16.30 announcement of the final challenge - CDiscount
-- 16.45 cocktail and networking
-- 18.00 students leave for Les Fontaines
-
 
 ### Hackathon
 location: Les Fontaines- Capgemini campus, 67 route de Chantilly – 60270 Gouvieux
