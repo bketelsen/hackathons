@@ -1,5 +1,7 @@
 # Data Science Game 2018
 
+Share the love at [aka.ms/datasciencegame](http://aka.ms/datasciencegame)
+
 ## Check the documentation
 - [Azure docs](https://docs.microsoft.com/en-us/azure/index)
 
