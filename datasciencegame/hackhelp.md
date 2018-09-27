@@ -1,8 +1,17 @@
 # Data Science Game 2018
 
-## Azure basics
+## Check the documentation
+- [Azure docs](https://docs.microsoft.com/en-us/azure/index)
 
 ## DSVM setup
+- [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
+- [Data Science Virtual Machine overview](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)
+- [Deep Learning Virtual Machine overview](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
+
+## Other Azure data science/machine learning tools
+- [Machine learning tools overview](https://docs.microsoft.com/en-us/azure/machine-learning/)
+- [Azure machine learning service (preview)](https://docs.microsoft.com/en-us/azure/machine-learning/service/)
+
 
 ## GPU FYI
 
@@ -13,5 +22,5 @@ You may create a quota request to get access to these VMs, but in general due to
 You won't need a quota increase to use the regular VC or NV (V1) VMs, so those are the best bet for getting up and started quickly. 
 
 ## Example labs
-[Keras on Azure notebooks](https://github.com/Microsoft/computerscience/blob/master/Labs/AI%20and%20Machine%20Learning/Keras/Keras.md) - from Justin's talk
-[TensorFlow on Azure Data Science Virtual Machine](https://github.com/Microsoft/computerscience/blob/master/Labs/AI%20and%20Machine%20Learning/TensorFlow/TensorFlow.md)
+- [Keras on Azure notebooks](https://github.com/Microsoft/computerscience/blob/master/Labs/AI%20and%20Machine%20Learning/Keras/Keras.md) - from Justin's talk
+- [TensorFlow on Azure Data Science Virtual Machine](https://github.com/Microsoft/computerscience/blob/master/Labs/AI%20and%20Machine%20Learning/TensorFlow/TensorFlow.md)
