@@ -5,8 +5,8 @@ Share the love at [aka.ms/datasciencegame](http://aka.ms/datasciencegame)
 ## Check the documentation
 - [Azure docs](https://docs.microsoft.com/en-us/azure/index)
 
-## DSVM setup
-TL;DR - just make it:
+## Data Science Virtual Machine
+TL;DR - just set one up:
 - [Create Ubuntu DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
 - [Create Windows DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm)
 
