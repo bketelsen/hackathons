@@ -16,9 +16,9 @@ TL;DR - just set one up:
 - [Data Science Virtual Machine overview](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)
 - [Deep Learning Virtual Machine overview](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
 
-### GPU FYI
+### FAQ
 
-TL:DR; Use NC or NV (V1) SKU VMs for GPUs.
+TL:DR; Use NC or NV (V1) SKU VMs for GPUs. If a resource isn't available, try a different region.
 
 You all have a certain type of Azure grant (Academic Grant - 143P) which doesn't have immediate access to NVS/NDS/NCSv3/NCSv2 VMs due to quota limitations.
 You may create a quota request to get access to these VMs, but in general due to high demand for these graphics-enabled VM types, availability is limited for customers using free/benefit/sponsorship subscriptions.
