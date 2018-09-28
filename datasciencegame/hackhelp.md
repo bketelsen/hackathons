@@ -16,9 +16,9 @@ TL;DR - set up a Data Science Virtual Machine of size DS24 (recommended). It'll 
 
 Under **Inbound port rules** > **Public inbound ports**, choose **Allow selected ports** and then select **SSH (22)** and **HTTP (80)** from the drop-down. 
 
-	![Open ports for RDP and HTTP](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/media/quick-create-portal/inbound-port-rules.png)
+![Open ports for RDP and HTTP](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/media/quick-create-portal/inbound-port-rules.png)
 	
-	```shell
+	```bash
 	az vm open-port --port 80 --resource-group myResourceGroup --name myVM
 	```
 
