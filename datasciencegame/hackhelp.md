@@ -18,9 +18,9 @@ Under **Inbound port rules** > **Public inbound ports**, choose **Allow selected
 
 ![Open ports for RDP and HTTP](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/media/quick-create-portal/inbound-port-rules.png)
 	
-	```bash
-	az vm open-port --port 80 --resource-group myResourceGroup --name myVM
-	```
+```bash
+az vm open-port --port 80 --resource-group myResourceGroup --name myVM
+```
 
 ### Learn about DSVM
 - [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
