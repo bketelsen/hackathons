@@ -10,11 +10,17 @@ TL;DR - set up a Data Science Virtual Machine of size DS24 (recommended). It'll 
 - [Create Ubuntu DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
 - [Create Windows DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm)
 
+- [Learn about different Azure VM sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)
+
 ### **Don't forget to open up Port 22 on your VM to be able to SHH in!**
 
 Under **Inbound port rules** > **Public inbound ports**, choose **Allow selected ports** and then select **SSH (22)** and **HTTP (80)** from the drop-down. 
 
-	![Open ports for RDP and HTTP](./media/quick-create-portal/inbound-port-rules.png)
+	![Open ports for RDP and HTTP](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/media/quick-create-portal/inbound-port-rules.png)
+	
+	```shell
+	az vm open-port --port 80 --resource-group myResourceGroup --name myVM
+	```
 
 ### Learn about DSVM
 - [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
