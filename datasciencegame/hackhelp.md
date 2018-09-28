@@ -20,11 +20,16 @@ TL;DR - just set one up:
 
 TL:DR; Use NC or NV (V1) SKU VMs for GPUs. If a resource isn't available, try a different region.
 
+- [SSH into a Linux VM from Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows)
+- [How to connect to a Linux VM via gui/aka not command line/aka remote desktop](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/)
+- [Troubleshoot SSH connections](https://docs.microsoft.com/en-us/azure/virtual-machines/troubleshooting/troubleshoot-ssh-connection)
+
+
 You all have a certain type of Azure grant (Academic Grant - 143P) which doesn't have immediate access to NVS/NDS/NCSv3/NCSv2 VMs due to quota limitations.
 You may create a quota request to get access to these VMs, but in general due to high demand for these graphics-enabled VM types, availability is limited for customers using free/benefit/sponsorship subscriptions.
 You won't need a quota increase to use the regular VC or NV (V1) VMs, so those are the best bet for getting up and started quickly. 
 
-[How to connect to a Linux VM via gui/aka not command line/aka remote desktop](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/)
+
 
 ## Other Azure data science/machine learning tools
 - [Machine learning tools overview](https://docs.microsoft.com/en-us/azure/machine-learning/)
