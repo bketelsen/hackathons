@@ -36,7 +36,7 @@ TL:DR; Use NC or NV (V1) SKU VMs for GPUs. If a resource isn't available, try a 
 
 - [Create regular Ubuntu VM (not DSVM)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
 - [SSH into a Linux VM from Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows)
-- [How to connect to a Linux VM via gui/aka not command line/aka remote desktop](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/)
+- [How to connect to a Linux VM via gui/aka not command line/aka remote desktop](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop)
 - [Troubleshoot SSH connections](https://docs.microsoft.com/en-us/azure/virtual-machines/troubleshooting/troubleshoot-ssh-connection)
 - [Resize data disk on your VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks_
 
