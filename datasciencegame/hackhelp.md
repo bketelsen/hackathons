@@ -5,12 +5,14 @@ Share the love at [aka.ms/datasciencegame](http://aka.ms/datasciencegame)
 ## Check the documentation
 - [Azure docs](https://docs.microsoft.com/en-us/azure/index)
 
-## Data Science Virtual Machine
-TL;DR - just set one up:
+## Virtual Machine
+TL;DR - set up a Data Science Virtual Machine of size DS24 (recommended). It'll have all the useful libraries already installed (Python, TensorFlow, Keras, sklearn, et.c)
 - [Create Ubuntu DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
 - [Create Windows DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm)
 
-### Learn about it
+![] asfa
+
+### Learn about DSVM
 - [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
 - [What's on the DSVM image?](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tools-overview)
 - [Data Science Virtual Machine overview](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)
@@ -20,6 +22,7 @@ TL;DR - just set one up:
 
 TL:DR; Use NC or NV (V1) SKU VMs for GPUs. If a resource isn't available, try a different region.
 
+- [Create regular Ubuntu VM (not DSVM)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
 - [SSH into a Linux VM from Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows)
 - [How to connect to a Linux VM via gui/aka not command line/aka remote desktop](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/)
 - [Troubleshoot SSH connections](https://docs.microsoft.com/en-us/azure/virtual-machines/troubleshooting/troubleshoot-ssh-connection)
