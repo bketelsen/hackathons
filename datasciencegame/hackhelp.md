@@ -10,7 +10,11 @@ TL;DR - set up a Data Science Virtual Machine of size DS24 (recommended). It'll 
 - [Create Ubuntu DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
 - [Create Windows DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm)
 
-![] asfa
+### **Don't forget to open up Port 22 on your VM to be able to SHH in!**
+
+Under **Inbound port rules** > **Public inbound ports**, choose **Allow selected ports** and then select **SSH (22)** and **HTTP (80)** from the drop-down. 
+
+	![Open ports for RDP and HTTP](./media/quick-create-portal/inbound-port-rules.png)
 
 ### Learn about DSVM
 - [Overview](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
@@ -31,7 +35,6 @@ TL:DR; Use NC or NV (V1) SKU VMs for GPUs. If a resource isn't available, try a 
 You all have a certain type of Azure grant (Academic Grant - 143P) which doesn't have immediate access to NVS/NDS/NCSv3/NCSv2 VMs due to quota limitations.
 You may create a quota request to get access to these VMs, but in general due to high demand for these graphics-enabled VM types, availability is limited for customers using free/benefit/sponsorship subscriptions.
 You won't need a quota increase to use the regular VC or NV (V1) VMs, so those are the best bet for getting up and started quickly. 
-
 
 
 ## Other Azure data science/machine learning tools
