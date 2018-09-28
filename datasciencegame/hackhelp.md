@@ -10,7 +10,7 @@ TL;DR - set up a Data Science Virtual Machine of size DS24 (recommended). It'll 
 - [Create Ubuntu DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
 - [Create Windows DSVM](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/provision-vm)
 
-- [Learn about different Azure VM sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)
+- [Learn about different Azure VM sizes/GPU differences](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)
 
 ### **Don't forget to open up Port 22 on your VM to be able to SHH in!**
 
