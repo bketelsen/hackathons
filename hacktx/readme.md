@@ -7,21 +7,21 @@ Key times:
 
 **Saturday**
 Saturday, Oct. 20
-9:30 am    Company Rep Check-in Begins (setup booth)
-10:00 am  Student Check-in Begins
-11:30 am  Opening Ceremony Begins
-12:00 pm  Hacking Begins
-1:00 pm    Lunch
-7:00 pm    Dinner
+- 9:30 am    Company Rep Check-in Begins (setup booth)
+- 10:00 am  Student Check-in Begins
+- 11:30 am  Opening Ceremony Begins
+- 12:00 pm  Hacking Begins
+- 1:00 pm    Lunch
+- 7:00 pm    Dinner
 
 **Sunday**
 Sunday, Oct. 21
-12:00 am Midnight Meal
-8:00 am   Breakfast
-12:00 pm Hacking Ends
-1:00 pm   Expo (Judging)  Starts
-3:00 pm   Closing Ceremony
-5:00 pm   End of Event
+- 12:00 am Midnight Meal
+- 8:00 am   Breakfast
+- 12:00 pm Hacking Ends
+- 1:00 pm   Expo (Judging)  Starts
+- 3:00 pm   Closing Ceremony
+- 5:00 pm   End of Event
 
 Where: AT&T Conference Center (West Side of AT&T Hotel and Conference Center)
 Address: 1900 University Avenue, Austin, TX 78705
