@@ -5,8 +5,7 @@
 
 Key times:
 
-**Saturday**
-Saturday, Oct. 20
+**Saturday** Oct. 20
 - 9:30 am    Company Rep Check-in Begins (setup booth)
 - 10:00 am  Student Check-in Begins
 - 11:30 am  Opening Ceremony Begins
@@ -14,8 +13,7 @@ Saturday, Oct. 20
 - 1:00 pm    Lunch
 - 7:00 pm    Dinner
 
-**Sunday**
-Sunday, Oct. 21
+**Sunday** Oct. 21
 - 12:00 am Midnight Meal
 - 8:00 am   Breakfast
 - 12:00 pm Hacking Ends
